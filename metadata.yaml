@@ -1,4 +1,8 @@
 _repo: Troubled-Waters-Sandy-Steele-Adventures-6_50353
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50353-h/images/cover.jpg
 creator:
   author:
     agent_name: Leckie, Robert
@@ -6,6 +10,8 @@ creator:
     gutenberg_agent_id: '45768'
     url: http://www.gutenberg.org/2009/agents/45768
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50353#Troubled-Waters-Sandy-Steele-Adventures-6
 gutenberg_issued: '2015-10-31'
 gutenberg_type: Text
 identifiers:
